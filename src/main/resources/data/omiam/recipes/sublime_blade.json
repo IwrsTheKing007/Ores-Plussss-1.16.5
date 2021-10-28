@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lll",
+    "lol",
+    "lll"
+  ],
+  "key": {
+    "l": {
+      "item": "omiam:sandia_alloy_sword"
+    },
+    "o": {
+      "item": "omiam:fuse_crystal"
+    }
+  },
+  "result": {
+    "item": "omiam:sublime_blade",
+    "count": 1
+  },
+  "group": "OMIAM Recipes"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ooo",
+    "ooo",
+    "ooo"
+  ],
+  "key": {
+    "o": {
+      "item": "omiam:platinum_ingot"
+    }
+  },
+  "result": {
+    "item": "omiam:platinum_block",
+    "count": 1
+  },
+  "group": "OMIAM Recipes"
+}

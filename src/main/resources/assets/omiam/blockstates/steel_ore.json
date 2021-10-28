@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model":"omiam:block/steel_ore"
+    }
+  }
+}

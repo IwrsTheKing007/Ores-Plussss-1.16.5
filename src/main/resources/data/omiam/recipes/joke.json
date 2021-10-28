@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "omiam:fuse_crystal"
+  },
+  "result": "omiam:fuse_crystal",
+  "experience": 80,
+  "cookingtime": 20
+}

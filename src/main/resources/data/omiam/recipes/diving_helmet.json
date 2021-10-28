@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ooo",
+    "oco"
+  ],
+  "key": {
+    "o": {
+      "item": "minecraft:leather"
+    },
+    "c": {
+      "item": "minecraft:turtle_helmet"
+    }
+  },
+  "result": {
+    "item": "omiam:diving_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ooo",
+    "oOg",
+    "ggg"
+  ],
+  "key": {
+    "o": {
+      "item": "omiam:platinum_ingot"
+    },
+    "O": {
+      "item": "omiam:fuse_crystal"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "omiam:sandia_alloy_ingot",
+    "count": 2
+  }
+}

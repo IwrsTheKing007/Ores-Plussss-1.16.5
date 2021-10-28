@@ -1,0 +1,83 @@
+{
+  "item.omiam.sandia_alloy_ingot": "Sandia Alloy Ingot",
+  "item.omiam.platinum_ingot": "Platinum Ingot",
+  "item.omiam.mjolnir_ingot": "§bMjöllnir Ingot",
+  "item.omiam.steel_ingot": "Steel Ingot",
+  "item.omiam.magma_nugget": "Magma Nugget",
+  "item.omiam.magma_ingot": "Magma Ingot",
+
+  "item.omiam.enchanted_golden_dragon_fruit": "§6Enchanted Golden Dragon Fruit",
+  "item.omiam.enchanted_dragon_fruit": "§dEnchanted Dragon Fruit",
+  "item.omiam.dragon_fruit": "Dragon Fruit",
+
+  "item.omiam.fuse_crystal": "§dFuse Crystal",
+
+  "item.omiam.warped_stick": "Warped Stick",
+  "item.omiam.anthracite": "Anthracite",
+  "item.omiam.super_fuel": "Super Fuel",
+
+  "item.omiam.platinum_pickaxe": "Platinum Pickaxe",
+  "item.omiam.platinum_axe": "Platinum Axe",
+  "item.omiam.platinum_shovel": "Platinum Shovel",
+  "item.omiam.platinum_hoe": "Platinum Hoe",
+  "item.omiam.platinum_sword": "Platinum Sword",
+
+  "item.omiam.sandia_alloy_pickaxe": "Sandia Alloy Pickaxe",
+  "item.omiam.sandia_alloy_axe": "Sandia Alloy Axe",
+  "item.omiam.sandia_alloy_shovel": "Sandia Alloy Shovel",
+  "item.omiam.sandia_alloy_hoe": "Sandia Alloy Hoe",
+  "item.omiam.sandia_alloy_sword": "Sandia Alloy Sword",
+
+  "item.omiam.magma_pickaxe": "Magma Pickaxe",
+  "item.omiam.magma_axe": "Magma Axe",
+  "item.omiam.magma_shovel": "Magma Shovel",
+  "item.omiam.magma_hoe": "Magma Hoe",
+  "item.omiam.magma_sword": "Magma Sword",
+
+  "item.omiam.platinum_helmet": "Platinum Helmet",
+  "item.omiam.platinum_chestplate": "Platinum Chestplate",
+  "item.omiam.platinum_leggings": "Platinum Leggings",
+  "item.omiam.platinum_boots": "Platinum Boots",
+
+  "item.omiam.sandia_alloy_helmet": "Sandia Alloy Helmet",
+  "item.omiam.sandia_alloy_chestplate": "Sandia Alloy Chestplate",
+  "item.omiam.sandia_alloy_leggings": "Sandia Alloy Leggings",
+  "item.omiam.sandia_alloy_boots": "Sandia Alloy Boots",
+
+  "item.omiam.magma_helmet": "Magma Helmet",
+  "item.omiam.magma_chestplate": "Magma Chestplate",
+  "item.omiam.magma_leggings": "Magma Leggings",
+  "item.omiam.magma_boots": "Magma Boots",
+
+  "item.omiam.rabbit_foot_boots": "Rabbit Foot Boots",
+
+  "item.omiam.diving_helmet": "Diving Helmet",
+  "item.omiam.diving_chestplate": "Diving Chestplate",
+  "item.omiam.diving_leggings": "Diving Leggings",
+  "item.omiam.diving_boots": "Diving Boots",
+
+  "item.omiam.sublime_blade": "§8Sublime §4Blade",
+  "item.omiam.warped_staff": "§dWarped Staff",
+  "item.omiam.mjolnir_hammer": "§bMjöllnir Hammer",
+  "item.omiam.super_sword": "§kSuper Sword",
+  "item.omiam.kitchen_knife": "Kitchen Knife",
+
+  "block.omiam.sandia_alloy_block": "Sandia Alloy Block",
+  "block.omiam.platinum_block": "Platinum Block",
+  "block.omiam.platinum_ore": "Platinum Ore",
+  "block.omiam.dragon_fruit_ore": "Dragon Fruit Ore",
+  "block.omiam.anthracite_ore": "Anthracite Ore",
+  "block.omiam.mjolnir_ore": "§bMjöllnir Ore",
+  "block.omiam.steel_ore": "Steel Ore",
+  "block.omiam.nether_magma_ore": "Nether Magma Ore",
+
+  "itemGroup.generaltab": "OMIAM General Tab",
+  "itemGroup.oresnstuff": "OMIAM Ores N Stuff",
+  "itemGroup.blocksnstuff": "OMIAM Blocks N Stuff",
+  "itemGroup.toolsnstuff": "OMIAM Tools N Stuff",
+  "itemGroup.armornstuff": "OMIAM Armor N Stuff",
+  "itemGroup.foodnstuff": "OMIAM Food N Stuff",
+  "itemGroup.miscnstuff": "OMIAM MISC N Stuff",
+
+  "enchantment.omiam.poison": "Poison"
+}

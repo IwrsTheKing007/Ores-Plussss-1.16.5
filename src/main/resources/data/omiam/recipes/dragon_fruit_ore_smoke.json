@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "omiam:dragon_fruit_ore"
+  },
+  "result": "omiam:dragon_fruit",
+  "experience": 0.1,
+  "cookingtime": 280
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "omiam:anthracite_ore"
+  },
+  "result": "omiam:anthracite",
+  "experience": 0.1,
+  "cookingtime": 280
+}

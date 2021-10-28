@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "omiam:mjolnir_ore"
+  },
+  "result": "omiam:mjolnir_ingot",
+  "experience": 0.2,
+  "cookingtime": 200
+}

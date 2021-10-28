@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "o o",
+    "oco",
+    "oco"
+  ],
+  "key": {
+    "o": {
+      "item": "minecraft:leather"
+    },
+    "c": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "omiam:diving_chestplate",
+    "count": 1
+  }
+}

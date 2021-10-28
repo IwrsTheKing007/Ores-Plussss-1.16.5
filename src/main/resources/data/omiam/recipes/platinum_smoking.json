@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "omiam:platinum_ore"
+  },
+  "result": "omiam:platinum_ingot",
+  "experience": 0.6,
+  "cookingtime": 280
+}

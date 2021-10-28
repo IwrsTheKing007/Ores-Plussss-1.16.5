@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "omiam:items/sublime_blade"
+  },
+  "display": {
+    "ground": {
+      "rotation": [ 0, -90, -45 ],
+      "translation": [ 0, 1.75, 4.5],
+      "scale":[ 2.3, 2.3, 2.3 ]
+    },
+    "head": {
+      "rotation": [ 0, 0, -45 ],
+      "translation": [ 5.5, 13.5, 0.75],
+      "scale":[ 2.3, 2.3, 2.3]
+    },
+    "thirdperson_righthand": {
+      "rotation": [ 45.5, 89, -2 ],
+      "translation": [ -0.25, 17, 2 ],
+      "scale": [ 2.3, 2.3, 2 ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [ 48.75, -90, -2 ],
+      "translation": [ -0.25, 17, 2 ],
+      "scale": [ 2.3, 2.3, 2 ]
+    },
+    "firstperson_righthand": {
+      "rotation": [ 60, 85, -2 ],
+      "translation": [ 5, 5, -5 ],
+      "scale": [ 2.3, 2.3, 1.6 ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [ 60, 85, -2 ],
+      "translation": [ 5, 5, -5 ],
+      "scale": [ 2.3, 2.3, 1.6 ]
+    },
+    "fixed": {
+      "rotation": [ 0, -180, 0 ],
+      "translation": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ]
+    }
+  }
+}

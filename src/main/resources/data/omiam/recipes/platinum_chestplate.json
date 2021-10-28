@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "o o",
+    "ooo",
+    "ooo"
+  ],
+  "key": {
+    "o": {
+      "item": "omiam:platinum_ingot"
+    }
+  },
+  "result": {
+    "item": "omiam:platinum_chestplate",
+    "count": 1
+  }
+}

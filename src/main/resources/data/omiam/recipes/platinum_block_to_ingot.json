@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "omiam:platinum_block"
+    }
+  ],
+  "result": {
+    "item": "omiam:platinum_ingot",
+    "count": 9
+  },
+  "group": "OMIAM Recipes"
+}

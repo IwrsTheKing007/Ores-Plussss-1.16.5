@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "omiam:dragon_fruit_ore"
+  },
+  "result": "omiam:dragon_fruit",
+  "experience": 0.2,
+  "cookingtime": 200
+}

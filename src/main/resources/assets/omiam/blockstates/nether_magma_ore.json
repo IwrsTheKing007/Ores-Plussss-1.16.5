@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model":"omiam:block/nether_magma_ore"
+    }
+  }
+}

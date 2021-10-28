@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "h",
+    "o",
+    "l"
+  ],
+  "key": {
+    "h": {
+      "item": "minecraft:water_bucket"
+    },
+    "o": {
+      "item": "minecraft:tnt"
+    },
+    "l": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "omiam:super_sword",
+    "count": 1
+  }
+}

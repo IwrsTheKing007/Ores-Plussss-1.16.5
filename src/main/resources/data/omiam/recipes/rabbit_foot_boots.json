@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "l l",
+    "o o"
+  ],
+  "key": {
+    "o": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "l": {
+      "item": "minecraft:rabbit_foot"
+    }
+  },
+  "result": {
+    "item": "omiam:rabbit_foot_boots",
+    "count": 1
+  }
+}

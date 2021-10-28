@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model":"omiam:block/sandia_alloy_block"
+    }
+  }
+}

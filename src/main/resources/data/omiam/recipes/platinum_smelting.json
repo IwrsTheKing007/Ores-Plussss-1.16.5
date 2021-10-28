@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "omiam:platinum_ore"
+  },
+  "result": "omiam:platinum_ingot",
+  "experience": 0.4,
+  "cookingtime": 200,
+  "group": "OMIAM Recipes"
+}

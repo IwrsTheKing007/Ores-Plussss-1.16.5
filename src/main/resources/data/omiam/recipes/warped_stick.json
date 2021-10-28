@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "o",
+    "o"
+  ],
+  "key": {
+    "o": {
+      "item": "minecraft:warped_planks"
+    }
+  },
+  "result": {
+    "item": "omiam:warped_stick",
+    "count": 4
+  }
+}

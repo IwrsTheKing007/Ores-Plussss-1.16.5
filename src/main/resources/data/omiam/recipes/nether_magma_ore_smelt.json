@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "omiam:nether_magma_ore"
+  },
+  "result": "omiam:magma_ingot",
+  "experience": 0.2,
+  "cookingtime": 200
+}

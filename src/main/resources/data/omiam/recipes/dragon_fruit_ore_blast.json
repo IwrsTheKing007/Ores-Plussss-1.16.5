@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "omiam:dragon_fruit_ore"
+  },
+  "result": "omiam:dragon_fruit",
+  "experience": 0.3,
+  "cookingtime": 120
+}

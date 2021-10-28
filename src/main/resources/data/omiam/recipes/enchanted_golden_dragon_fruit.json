@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#O#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_block"
+    },
+    "O": {
+      "item": "omiam:enchanted_dragon_fruit"
+    }
+  },
+  "result": {
+    "item": "omiam:enchanted_golden_dragon_fruit",
+    "count": 1
+  }
+}

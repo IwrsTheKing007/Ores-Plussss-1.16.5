@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " o ",
+    " o ",
+    " / "
+  ],
+  "key": {
+    "o": {
+      "item": "omiam:steel_ingot"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "omiam:kitchen_knife",
+    "count": 1
+  }
+}

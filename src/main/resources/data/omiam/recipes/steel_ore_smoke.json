@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "omiam:steel_ore"
+  },
+  "result": "omiam:steel_ingot",
+  "experience": 0.1,
+  "cookingtime": 280
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "omiam:steel_ore"
+  },
+  "result": "omiam:steel_ingot",
+  "experience": 0.3,
+  "cookingtime": 120
+}

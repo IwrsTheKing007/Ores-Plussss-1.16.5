@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lil",
+    " o ",
+    " o "
+  ],
+  "key": {
+    "o": {
+      "item": "omiam:warped_stick"
+    },
+    "l": {
+      "item": "minecraft:gunpowder"
+    },
+    "i": {
+      "item": "omiam:fuse_crystal"
+    }
+  },
+  "result": {
+    "item": "omiam:warped_staff",
+    "count": 1
+  }
+}

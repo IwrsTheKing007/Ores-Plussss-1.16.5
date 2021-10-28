@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "omiam:steel_ore"
+  },
+  "result": "omiam:steel_ingot",
+  "experience": 0.2,
+  "cookingtime": 200
+}

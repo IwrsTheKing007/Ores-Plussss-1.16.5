@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ooo",
+    "o o",
+    "o o"
+  ],
+  "key": {
+    "o": {
+      "item": "omiam:sandia_alloy_ingot"
+    }
+  },
+  "result": {
+    "item": "omiam:sandia_alloy_leggings",
+    "count": 1
+  }
+}

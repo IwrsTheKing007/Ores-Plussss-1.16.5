@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ooo",
+    "o/o",
+    " / "
+  ],
+  "key": {
+    "o": {
+      "item": "omiam:mjolnir_ingot"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "omiam:mjolnir_hammer",
+    "count": 1
+  }
+}
